@@ -6,7 +6,7 @@
 ![ServicoMobile](./IMG/ServicoWeb.PNG)
 
 #### Acesso API
-![ServicoApi](./IMG/ServicoApi.PNG)
+![ServicoApi](./IMG/ServicoAPI.PNG)
 
 #### Acesso Mobile
 ![ServicoMobile](./IMG/ServicoMobile.jpeg)
